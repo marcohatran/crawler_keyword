@@ -1,0 +1,3 @@
+selenium
+pyvi
+elasticsearch==7.6.0
